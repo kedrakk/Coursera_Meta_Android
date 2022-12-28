@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Little Lemon Login</string>
+    <string name="logoimage">Logo Image</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+</resources>
