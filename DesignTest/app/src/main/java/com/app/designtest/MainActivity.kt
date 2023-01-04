@@ -33,9 +33,10 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun Greeting(name: String) {
-    Button(onClick = { /*TODO*/ }, Modifier.wrapContentSize()) {
-        Text(text = "Order")
-    }
+    TestAnimationWidget()
+//    Button(onClick = { /*TODO*/ }, Modifier.wrapContentSize()) {
+//        Text(text = "Order")
+//    }
 }
 
 @Preview(showBackground = true)
