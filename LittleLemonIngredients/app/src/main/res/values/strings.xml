@@ -2,4 +2,6 @@
     <string name="app_name">Little Lemon Ingredients</string>
     <string name="hamburger">Hamburger</string>
     <string name="pasta">Pasta</string>
+    <string name="save_data">Save Data</string>
+    <string name="go_to_lambda_page">Go To Lambda Page</string>
 </resources>

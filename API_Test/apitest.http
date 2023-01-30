@@ -1,0 +1,8 @@
+GET https://httpbin.org/get
+Content-Type: multipart/form-data
+
+{
+    "title":"Lord of the Rings",
+    "author":"John"
+}
+
